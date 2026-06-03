@@ -27,7 +27,7 @@ export const siteImages = {
       {
         theme: "Birthdays",
         image:
-          "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=2200&q=85",
+          "https://images.unsplash.com/photo-1780206709823-40966ac200ba?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         alt: "Birthday celebration with cake, candles, and warm lights",
       },
       {
