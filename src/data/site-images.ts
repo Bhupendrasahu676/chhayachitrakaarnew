@@ -9,7 +9,7 @@ export const siteImages = {
   hero: {
     // The hero background image for the top section.
     background:
-      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=2200&q=85",
+      "https://www.instagram.com/p/DKIM-5azzfg/?hl=en&img_index=1",
     // The hero slide images shown in the rotating hero overlay.
     slides: [
       {
