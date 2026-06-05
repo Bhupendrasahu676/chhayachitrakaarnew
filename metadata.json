@@ -1,0 +1,6 @@
+{
+  "name": "Chhaayachitrakaar Portfolio",
+  "description": "Ethereal high-fashion wedding, product, and cinematic portfolio by Chhaayachitrakaar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
